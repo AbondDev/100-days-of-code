@@ -17,5 +17,5 @@
 **Thoughts:** This one was a little more involved than the project from day one. I will likely work on this one for a few days this week. I had some trouble working with my hero banner. I think I still need to make it more responsive. 
 
 **Link to work:** 
-1. https://github.com/AbondDev/StaticWebPage1.git
+1. [Static Webpage 1](https://github.com/AbondDev/StaticWebPage1.git)
 
