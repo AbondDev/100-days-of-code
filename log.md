@@ -26,5 +26,6 @@
 **Today's Progress**: Updated the website template I was working on yesterday. I plan on working on it day by day over the next week to finish. 
 
 **Thoughts:** Went pretty well today. Figured out a pretty straightforward methodology to working on the grid system.(I added borders and backgrounds to all the divs while doing the formatting, lmao). Anyway, good day, cool project. One day at a time!
+
 **Link to work:** 
 1. [Static Webpage 1](https://github.com/AbondDev/StaticWebPage1.git)
