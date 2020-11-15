@@ -21,7 +21,7 @@
 
 
 
-### Day 2: November 12, 2020
+### Day 3: November 12, 2020
 
 **Today's Progress**: Updated the website template I was working on yesterday. I plan on working on it day by day over the next week to finish. 
 
@@ -29,3 +29,14 @@
 
 **Link to work:** 
 1. [Static Webpage 1](https://github.com/AbondDev/StaticWebPage1.git)
+
+### Day 4: November 13, 2020
+
+**Today's Progress**: Static webpage is going well!
+
+**Thoughts:** Made changes to the banners. I converted them to bootstrap cards with images and overlays. Also learned how to center the content effectively. Something I would like to learn still is to adjust the sizing. I'm pretty sure the issue is with the original image sizes. But, we'll see, haha.
+
+**Link to work:** 
+1. [Static Webpage 1](https://github.com/AbondDev/StaticWebPage1.git)
+
+### November 14 I missed a day. I am back on it now though.
