@@ -40,3 +40,23 @@
 1. [Static Webpage 1](https://github.com/AbondDev/StaticWebPage1.git)
 
 ### November 14 I missed a day. I am back on it now though.
+
+
+### Day 4: November 15, 2020
+
+**Today's Progress**: Static webpage almost complete
+
+**Thoughts:** Finished the form at the bottom of the page.
+
+**Link to work:** 
+1. [Static Webpage 1](https://github.com/AbondDev/StaticWebPage1.git)
+
+
+### Day 4: November 16, 2020
+
+**Today's Progress**: Static webpage last dev(Kinda)
+
+**Thoughts:** Did the last of the major development for the webpage today. All that's left for this page is little todo's here and there. Bootstrap expedited this process so much.
+
+**Link to work:** 
+1. [Static Webpage 1](https://github.com/AbondDev/StaticWebPage1.git)
