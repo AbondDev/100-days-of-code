@@ -81,3 +81,23 @@
 
 **Link to work:** 
 1. [Static Webpage 2](https://github.com/AbondDev/StaticWebPages.git)
+
+
+### Day 8: November 19, 2020
+
+**Today's Progress**: Static webpage 2
+
+**Thoughts:** I forgot to update the log yesterday, but, I did update the static webpage header. The changes weren't overly extensive, but, I basically changed the mark up to utilize bootstrap's formatting. 
+
+**Link to work:** 
+1. [Static Webpage 2](https://github.com/AbondDev/StaticWebPages.git)
+
+
+### Day 9: November 20, 2020
+
+**Today's Progress**: Express App 1
+
+**Thoughts:** These changes were pretty extensive and fun to do. I moved the header and footer into ejs templates. The body is now the home page and now the news and pricing page links work. Still a far cry away from being a full webpage or anything, but, a fun exercise regardless. I am enjoying the 100 days of code more and more each day.
+
+**Link to work:** 
+1. [Express App 1](https://github.com/AbondDev/ExpressApp1.git)
